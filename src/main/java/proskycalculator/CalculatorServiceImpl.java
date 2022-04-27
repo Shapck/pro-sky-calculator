@@ -9,7 +9,7 @@ public class CalculatorServiceImpl implements CalclutaorService {
         return "Привет";
     }
 
-    public String answerWelcome() {
+    public String answerWelcomee() {
         return "Добро пожаловать  в калькулятор";
     }
 

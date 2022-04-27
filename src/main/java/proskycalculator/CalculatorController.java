@@ -19,7 +19,7 @@ public class CalculatorController {
 
     @GetMapping(path = "/calculator")
     public String answerWelcome(){
-        return calclutaorService.answerWelcome();
+        return calclutaorService.answerWelcomee();
     }
 
     @GetMapping(path = "/calculator/plus")
