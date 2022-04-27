@@ -3,7 +3,7 @@ package proskycalculator;
 public interface CalclutaorService {
     String hello();
 
-    String answerWelcome();
+    String answerWelcomee();
 
     String numPlus(Integer num1, Integer num2);
 
